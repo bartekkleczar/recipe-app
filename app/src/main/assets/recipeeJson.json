@@ -1,0 +1,31 @@
+{
+  "recipes": [
+
+    {
+      "name": "Spaghetti Carbonara",
+      "origin": "Włochy",
+      "description": "Klasyczne włoskie danie z makaronu spaghetti, podsmażonego boczku, jajek i parmezanu, przyprawione czosnkiem, solą i pieprzem.",
+      "recipe": "Ugotuj spaghetti, podsmaż boczek z czosnkiem. W misce wymieszaj jajka, parmezan, sól i pieprz. Połącz wszystkie składniki i podawaj gorące.",
+      "time": 20,
+      "imageID": 2130968593
+    },
+
+    {
+      "name": "Sałatka grecka",
+      "origin": "Grecja",
+      "description": "Świeża sałatka z pomidorów, ogórków, czerwonej cebuli, sera feta, oliwek, skropiona oliwą z oliwek i posypana oregano.",
+      "recipe": "Pokrój wszystkie warzywa, dodaj pokruszoną fetę i oliwki. Skrop oliwą, posyp oregano, dopraw solą i pieprzem. Możesz od razu podać.",
+      "time": "15",
+      "imageID": 2130968592
+    },
+
+    {
+      "name": "Kurczak curry z warzywami",
+      "origin": "Indie",
+      "description": "Pikantne danie z kawałków kurczaka, warzyw i aromatycznych przypraw, gotowane w mleczku kokosowym i curry.",
+      "recipe": "Podsmaż cebulę, dodaj kurczaka i warzywa pokrojone w kostkę. Dolej mleczko kokosowe i przyprawy. Gotuj do miękkości.",
+      "time": "30",
+      "imageID": 2130968593
+    }
+  ]
+}
